@@ -14,7 +14,7 @@ exclude_files:
 - php_buildpack-*v*
 default_versions:
 - name: php
-  version: 7.0.10
+  version: 7.0.9
 - name: nginx
   version: 1.11.3
 - name: httpd
